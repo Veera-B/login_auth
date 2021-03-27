@@ -1,3 +1,13 @@
+@import "bootstrap";
+
+:root{
+  --primaryBgBlue: #230ccc;
+  --secondaryBgPink: #a60a74;
+  --btnPrimary: #1ef7f4;
+  --btnSecondery: #141ff5;
+  --btnDanger : #f70542;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

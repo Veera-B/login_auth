@@ -1,0 +1,13 @@
+.Toolbar{
+    background-color: var(--secondaryBgPink);
+    color: #ffe;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: -1;
+}

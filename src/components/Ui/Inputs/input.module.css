@@ -1,0 +1,9 @@
+.InputLabel{
+    color: var(--btnPrimary);
+    font-weight: 500;
+}
+.Input{
+    border: 1px solid #fff;
+    background-color: transparent !important;
+    color: #fff !important;
+}
